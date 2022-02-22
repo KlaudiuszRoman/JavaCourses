@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="03270f08-0852-4d77-bb14-5a8784d9b226" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/example/basics/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/basics/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,13 +96,13 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.EnumExample">
-    <configuration name="EnumExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.basics.data.EnumExample" />
+  <component name="RunManager" selected="Application.Functions_toCharArray_split_toString">
+    <configuration name="Function_lastIndexOf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.basics.data.string_class.Function_lastIndexOf" />
       <module name="java001" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.basics.data.*" />
+          <option name="PATTERN" value="com.example.basics.data.string_class.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="J08_finalKeyword" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.basics.data.types.J08_finalKeyword" />
+    <configuration name="Functions_indexOf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.basics.data.string_class.Functions_indexOf" />
       <module name="java001" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.basics.data.types.*" />
+          <option name="PATTERN" value="com.example.basics.data.string_class.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,12 +123,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="J09_string" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.basics.data.types.J09_string" />
+    <configuration name="Functions_repeat_join_concat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.basics.data.string_class.Functions_repeat_join_concat" />
       <module name="java001" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.basics.data.types.*" />
+          <option name="PATTERN" value="com.example.basics.data.string_class.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,12 +136,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="J10_arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.basics.data.types.J10_arrays" />
+    <configuration name="Functions_replaceAll_replaceFirst" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.basics.data.string_class.Functions_replaceAll_replaceFirst" />
       <module name="java001" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.basics.data.types.*" />
+          <option name="PATTERN" value="com.example.basics.data.string_class.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -150,12 +149,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="J11_2dArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.basics.data.types.J11_2dArray" />
+    <configuration name="Functions_toCharArray_split_toString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.basics.data.string_class.Functions_toCharArray_split_toString" />
       <module name="java001" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.basics.data.types.*" />
+          <option name="PATTERN" value="com.example.basics.data.string_class.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -165,11 +164,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.EnumExample" />
-        <item itemvalue="Application.J11_2dArray" />
-        <item itemvalue="Application.J10_arrays" />
-        <item itemvalue="Application.J09_string" />
-        <item itemvalue="Application.J08_finalKeyword" />
+        <item itemvalue="Application.Functions_toCharArray_split_toString" />
+        <item itemvalue="Application.Functions_repeat_join_concat" />
+        <item itemvalue="Application.Function_lastIndexOf" />
+        <item itemvalue="Application.Functions_indexOf" />
+        <item itemvalue="Application.Functions_replaceAll_replaceFirst" />
       </list>
     </recent_temporary>
   </component>
