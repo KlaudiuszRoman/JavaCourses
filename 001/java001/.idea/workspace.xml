@@ -26,7 +26,7 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="ProjectErrors" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="25PvOgwai4TKrfH6zVRP8tPokEL" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -94,15 +94,21 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/example/oop/basics/inheritance/polymorphism_casting" />
   </component>
-  <component name="RunManager" selected="Application.Functions_toCharArray_split_toString">
-    <configuration name="Function_lastIndexOf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.basics.data.string_class.Function_lastIndexOf" />
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/com/example/oop/basics/inheritance/polymorphism_casting" />
+      <recent name="$PROJECT_DIR$/src/com/example/oop/basics/access_modifiers/no_modifier" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.CompanyCastingExample">
+    <configuration name="Company" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.oop.basics.inheritance.polymorphism_basics.Company" />
       <module name="java001" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.basics.data.string_class.*" />
+          <option name="PATTERN" value="com.example.oop.basics.inheritance.polymorphism_basics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,12 +116,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Functions_indexOf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.basics.data.string_class.Functions_indexOf" />
+    <configuration name="CompanyCastingExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.oop.basics.inheritance.polymorphism_casting.CompanyCastingExample" />
       <module name="java001" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.basics.data.string_class.*" />
+          <option name="PATTERN" value="com.example.oop.basics.inheritance.polymorphism_casting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,12 +129,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Functions_repeat_join_concat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.basics.data.string_class.Functions_repeat_join_concat" />
+    <configuration name="InstanceofExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.oop.basics.inheritance.instanceof_operator.InstanceofExample" />
       <module name="java001" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.basics.data.string_class.*" />
+          <option name="PATTERN" value="com.example.oop.basics.inheritance.instanceof_operator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,12 +142,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Functions_replaceAll_replaceFirst" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.basics.data.string_class.Functions_replaceAll_replaceFirst" />
+    <configuration name="NoModifierExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.oop.basics.access_modifiers.no_modifier.NoModifierExample" />
       <module name="java001" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.basics.data.string_class.*" />
+          <option name="PATTERN" value="com.example.oop.basics.access_modifiers.no_modifier.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -149,12 +155,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Functions_toCharArray_split_toString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.basics.data.string_class.Functions_toCharArray_split_toString" />
+    <configuration name="SuperTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.oop.basics.inheritance.super_example.SuperTest" />
       <module name="java001" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.basics.data.string_class.*" />
+          <option name="PATTERN" value="com.example.oop.basics.inheritance.super_example.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -164,11 +170,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Functions_toCharArray_split_toString" />
-        <item itemvalue="Application.Functions_repeat_join_concat" />
-        <item itemvalue="Application.Function_lastIndexOf" />
-        <item itemvalue="Application.Functions_indexOf" />
-        <item itemvalue="Application.Functions_replaceAll_replaceFirst" />
+        <item itemvalue="Application.CompanyCastingExample" />
+        <item itemvalue="Application.Company" />
+        <item itemvalue="Application.InstanceofExample" />
+        <item itemvalue="Application.SuperTest" />
+        <item itemvalue="Application.NoModifierExample" />
       </list>
     </recent_temporary>
   </component>
