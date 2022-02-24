@@ -15,6 +15,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -102,7 +103,20 @@
       <recent name="$PROJECT_DIR$/src/com/example/oop/basics/access_modifiers/no_modifier" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CompanyCastingExample">
+  <component name="RunManager" selected="Application.Example">
+    <configuration name="AbstractExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.oop.basics.inheritance.abstract_classes.AbstractExample" />
+      <module name="java001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.oop.basics.inheritance.abstract_classes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Company" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.oop.basics.inheritance.polymorphism_basics.Company" />
       <module name="java001" />
@@ -129,12 +143,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InstanceofExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.oop.basics.inheritance.instanceof_operator.InstanceofExample" />
+    <configuration name="Example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.oop.basics.interface_extends_default_static_final_methods.Example" />
       <module name="java001" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.oop.basics.inheritance.instanceof_operator.*" />
+          <option name="PATTERN" value="com.example.oop.basics.interface_extends_default_static_final_methods.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,25 +156,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NoModifierExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.oop.basics.access_modifiers.no_modifier.NoModifierExample" />
+    <configuration name="InterfaceExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.oop.basics.intfreace_basics.InterfaceExample" />
       <module name="java001" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.oop.basics.access_modifiers.no_modifier.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SuperTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.oop.basics.inheritance.super_example.SuperTest" />
-      <module name="java001" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.example.oop.basics.inheritance.super_example.*" />
+          <option name="PATTERN" value="com.example.oop.basics.intfreace_basics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -170,11 +171,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Example" />
+        <item itemvalue="Application.InterfaceExample" />
+        <item itemvalue="Application.AbstractExample" />
         <item itemvalue="Application.CompanyCastingExample" />
         <item itemvalue="Application.Company" />
-        <item itemvalue="Application.InstanceofExample" />
-        <item itemvalue="Application.SuperTest" />
-        <item itemvalue="Application.NoModifierExample" />
       </list>
     </recent_temporary>
   </component>
