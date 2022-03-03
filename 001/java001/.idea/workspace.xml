@@ -109,9 +109,9 @@
       <recent name="$PROJECT_DIR$/src/com/example/oop/basics/access_modifiers/no_modifier" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LinkedListBasics">
-    <configuration name="ArrayListIteration" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.collections.ArrayListIteration" />
+  <component name="RunManager" selected="Application.HashSetExample">
+    <configuration name="ArrayListMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.collections.ArrayListMethods" />
       <module name="java001" />
       <extension name="coverage">
         <pattern>
@@ -123,8 +123,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayListMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.collections.ArrayListMethods" />
+    <configuration name="HashSetExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.collections.HashSetExample" />
       <module name="java001" />
       <extension name="coverage">
         <pattern>
@@ -162,12 +162,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.basics.Main" />
+    <configuration name="LinkedListIteratorManipulation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.collections.LinkedListIteratorManipulation" />
       <module name="java001" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.basics.*" />
+          <option name="PATTERN" value="com.example.collections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -177,11 +177,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HashSetExample" />
+        <item itemvalue="Application.LinkedListIteratorManipulation" />
         <item itemvalue="Application.LinkedListBasics" />
         <item itemvalue="Application.IteratorMethods" />
         <item itemvalue="Application.ArrayListMethods" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.ArrayListIteration" />
       </list>
     </recent_temporary>
   </component>
