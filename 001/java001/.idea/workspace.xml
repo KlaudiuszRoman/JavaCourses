@@ -109,9 +109,9 @@
       <recent name="$PROJECT_DIR$/src/com/example/oop/basics/access_modifiers/no_modifier" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.HashSetExample">
-    <configuration name="ArrayListMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.collections.ArrayListMethods" />
+  <component name="RunManager" selected="Application.TaskComparableExample">
+    <configuration name="PriorityQueueComparatorAscending" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.collections.PriorityQueueComparatorAscending" />
       <module name="java001" />
       <extension name="coverage">
         <pattern>
@@ -123,8 +123,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HashSetExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.collections.HashSetExample" />
+    <configuration name="PriorityQueueComparatorDescending" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.collections.PriorityQueueComparatorDescending" />
       <module name="java001" />
       <extension name="coverage">
         <pattern>
@@ -136,8 +136,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IteratorMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.collections.IteratorMethods" />
+    <configuration name="PriorityQueueExampleBasics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.collections.PriorityQueueExampleBasics" />
       <module name="java001" />
       <extension name="coverage">
         <pattern>
@@ -149,8 +149,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinkedListBasics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.collections.LinkedListBasics" />
+    <configuration name="PriorityQueueStringLengthComparator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.collections.PriorityQueueStringLengthComparator" />
       <module name="java001" />
       <extension name="coverage">
         <pattern>
@@ -162,8 +162,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinkedListIteratorManipulation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.collections.LinkedListIteratorManipulation" />
+    <configuration name="TaskComparableExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.collections.TaskComparableExample" />
       <module name="java001" />
       <extension name="coverage">
         <pattern>
@@ -177,11 +177,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.HashSetExample" />
-        <item itemvalue="Application.LinkedListIteratorManipulation" />
-        <item itemvalue="Application.LinkedListBasics" />
-        <item itemvalue="Application.IteratorMethods" />
-        <item itemvalue="Application.ArrayListMethods" />
+        <item itemvalue="Application.TaskComparableExample" />
+        <item itemvalue="Application.PriorityQueueStringLengthComparator" />
+        <item itemvalue="Application.PriorityQueueComparatorDescending" />
+        <item itemvalue="Application.PriorityQueueComparatorAscending" />
+        <item itemvalue="Application.PriorityQueueExampleBasics" />
       </list>
     </recent_temporary>
   </component>
