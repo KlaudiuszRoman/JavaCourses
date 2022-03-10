@@ -111,9 +111,35 @@
       <recent name="$PROJECT_DIR$/src/com/example/oop/basics/access_modifiers/no_modifier" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ArraysSortLambda">
-    <configuration name="ArraysSortLambda" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.lambda.ArraysSortLambda" />
+  <component name="RunManager" selected="Application.CollectToSetMathod">
+    <configuration name="CollectMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.streams.CollectMethod" />
+      <module name="java001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.streams.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CollectToSetMathod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.streams.CollectToSetMathod" />
+      <module name="java001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.streams.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DefaultMethodsInInterface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.lambda.DefaultMethodsInInterface" />
       <module name="java001" />
       <extension name="coverage">
         <pattern>
@@ -125,21 +151,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GenericsMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.generics.GenericsMethods" />
-      <module name="java001" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.example.generics.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LambdaBasics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.lambda.LambdaBasics" />
+    <configuration name="MethodReference" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.lambda.MethodReference" />
       <module name="java001" />
       <extension name="coverage">
         <pattern>
@@ -151,25 +164,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OrganisationExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.generics.OrganisationExample" />
+    <configuration name="StreamsBasics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.streams.StreamsBasics" />
       <module name="java001" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.generics.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SimpleGeneric" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.generics.SimpleGeneric" />
-      <module name="java001" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.example.generics.*" />
+          <option name="PATTERN" value="com.example.streams.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -179,11 +179,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ArraysSortLambda" />
-        <item itemvalue="Application.LambdaBasics" />
-        <item itemvalue="Application.GenericsMethods" />
-        <item itemvalue="Application.OrganisationExample" />
-        <item itemvalue="Application.SimpleGeneric" />
+        <item itemvalue="Application.CollectToSetMathod" />
+        <item itemvalue="Application.CollectMethod" />
+        <item itemvalue="Application.StreamsBasics" />
+        <item itemvalue="Application.DefaultMethodsInInterface" />
+        <item itemvalue="Application.MethodReference" />
       </list>
     </recent_temporary>
   </component>
