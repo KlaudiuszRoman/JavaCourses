@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="03270f08-0852-4d77-bb14-5a8784d9b226" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/streams/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/streams/Car.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,9 +112,9 @@
       <recent name="$PROJECT_DIR$/src/com/example/oop/basics/access_modifiers/no_modifier" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CollectToSetMathod">
-    <configuration name="CollectMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.streams.CollectMethod" />
+  <component name="RunManager" selected="Application.OptionalMapOrElse">
+    <configuration name="CountMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.streams.CountMethod" />
       <module name="java001" />
       <extension name="coverage">
         <pattern>
@@ -125,8 +126,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CollectToSetMathod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.streams.CollectToSetMathod" />
+    <configuration name="IterateCreateStreams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.streams.IterateCreateStreams" />
       <module name="java001" />
       <extension name="coverage">
         <pattern>
@@ -138,12 +139,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DefaultMethodsInInterface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.lambda.DefaultMethodsInInterface" />
+    <configuration name="OptionalCreateOfNullableEmpty" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.streams.OptionalCreateOfNullableEmpty" />
       <module name="java001" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.lambda.*" />
+          <option name="PATTERN" value="com.example.streams.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -151,12 +152,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MethodReference" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.lambda.MethodReference" />
+    <configuration name="OptionalMapOrElse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.streams.OptionalMapOrElse" />
       <module name="java001" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.lambda.*" />
+          <option name="PATTERN" value="com.example.streams.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -164,8 +165,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StreamsBasics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.streams.StreamsBasics" />
+    <configuration name="ReduceCars" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.streams.ReduceCars" />
       <module name="java001" />
       <extension name="coverage">
         <pattern>
@@ -179,11 +180,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CollectToSetMathod" />
-        <item itemvalue="Application.CollectMethod" />
-        <item itemvalue="Application.StreamsBasics" />
-        <item itemvalue="Application.DefaultMethodsInInterface" />
-        <item itemvalue="Application.MethodReference" />
+        <item itemvalue="Application.OptionalMapOrElse" />
+        <item itemvalue="Application.OptionalCreateOfNullableEmpty" />
+        <item itemvalue="Application.IterateCreateStreams" />
+        <item itemvalue="Application.ReduceCars" />
+        <item itemvalue="Application.CountMethod" />
       </list>
     </recent_temporary>
   </component>
