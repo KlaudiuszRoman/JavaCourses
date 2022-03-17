@@ -109,7 +109,20 @@
       <recent name="$PROJECT_DIR$/src/com/example/oop/basics/access_modifiers/no_modifier" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.RaceConditionSolveExample">
+  <component name="RunManager" selected="Application.DeamonExample">
+    <configuration name="DeamonExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.threads.DeamonExample" />
+      <module name="java001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.threads.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="RaceConditionExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.threads.RaceConditionExample" />
       <module name="java001" />
@@ -136,12 +149,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TerminatedState" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.threads.lifecycle.TerminatedState" />
+    <configuration name="RaceConditionSolvedSynchronizedBlock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.threads.RaceConditionSolvedSynchronizedBlock" />
       <module name="java001" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.threads.lifecycle.*" />
+          <option name="PATTERN" value="com.example.threads.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -149,25 +162,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TimedWaitingState" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.threads.lifecycle.TimedWaitingState" />
+    <configuration name="WaitNotifyExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.threads.WaitNotifyExample" />
       <module name="java001" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.threads.lifecycle.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="WaitingState" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.threads.lifecycle.WaitingState" />
-      <module name="java001" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.example.threads.lifecycle.*" />
+          <option name="PATTERN" value="com.example.threads.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -177,11 +177,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DeamonExample" />
+        <item itemvalue="Application.WaitNotifyExample" />
+        <item itemvalue="Application.RaceConditionSolvedSynchronizedBlock" />
         <item itemvalue="Application.RaceConditionSolveExample" />
         <item itemvalue="Application.RaceConditionExample" />
-        <item itemvalue="Application.TerminatedState" />
-        <item itemvalue="Application.TimedWaitingState" />
-        <item itemvalue="Application.WaitingState" />
       </list>
     </recent_temporary>
   </component>
