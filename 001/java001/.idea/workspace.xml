@@ -109,13 +109,13 @@
       <recent name="$PROJECT_DIR$/src/com/example/oop/basics/access_modifiers/no_modifier" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DeamonExample">
-    <configuration name="DeamonExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.threads.DeamonExample" />
+  <component name="RunManager" selected="Application.FileReaderExample">
+    <configuration name="FileInputOutputStreamCopyFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.files.FileInputOutputStreamCopyFile" />
       <module name="java001" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.threads.*" />
+          <option name="PATTERN" value="com.example.files.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,12 +123,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RaceConditionExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.threads.RaceConditionExample" />
+    <configuration name="FileInputStreamExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.files.FileInputStreamExample" />
       <module name="java001" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.threads.*" />
+          <option name="PATTERN" value="com.example.files.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,12 +136,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RaceConditionSolveExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.threads.RaceConditionSolveExample" />
+    <configuration name="FileOutputStreamExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.files.FileOutputStreamExample" />
       <module name="java001" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.threads.*" />
+          <option name="PATTERN" value="com.example.files.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -149,12 +149,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RaceConditionSolvedSynchronizedBlock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.threads.RaceConditionSolvedSynchronizedBlock" />
+    <configuration name="FileReaderExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.files.FileReaderExample" />
       <module name="java001" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.threads.*" />
+          <option name="PATTERN" value="com.example.files.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -162,12 +162,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WaitNotifyExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.threads.WaitNotifyExample" />
+    <configuration name="FileWriterExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.files.FileWriterExample" />
       <module name="java001" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.threads.*" />
+          <option name="PATTERN" value="com.example.files.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -177,11 +177,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DeamonExample" />
-        <item itemvalue="Application.WaitNotifyExample" />
-        <item itemvalue="Application.RaceConditionSolvedSynchronizedBlock" />
-        <item itemvalue="Application.RaceConditionSolveExample" />
-        <item itemvalue="Application.RaceConditionExample" />
+        <item itemvalue="Application.FileReaderExample" />
+        <item itemvalue="Application.FileWriterExample" />
+        <item itemvalue="Application.FileInputOutputStreamCopyFile" />
+        <item itemvalue="Application.FileInputStreamExample" />
+        <item itemvalue="Application.FileOutputStreamExample" />
       </list>
     </recent_temporary>
   </component>
