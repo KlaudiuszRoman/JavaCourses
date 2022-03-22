@@ -109,13 +109,13 @@
       <recent name="$PROJECT_DIR$/src/com/example/oop/basics/access_modifiers/no_modifier" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ObjectInputStreamSerialization">
-    <configuration name="DataInputStreamExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.files.DataInputStreamExample" />
+  <component name="RunManager" selected="Application.MouseListenerMouseMotionListenerExample">
+    <configuration name="ActionEventExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.swing.ActionEventExample" />
       <module name="java001" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.files.*" />
+          <option name="PATTERN" value="com.example.swing.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,12 +123,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FileExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.files.FileExample" />
+    <configuration name="JComponentExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.swing.JComponentExample" />
       <module name="java001" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.files.*" />
+          <option name="PATTERN" value="com.example.swing.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,12 +136,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ObjectInputStreamSerialization" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.files.ObjectInputStreamSerialization" />
+    <configuration name="KeyListenerExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.swing.KeyListenerExample" />
       <module name="java001" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.files.*" />
+          <option name="PATTERN" value="com.example.swing.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -149,12 +149,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ObjectOutputStreamSerialization" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.files.ObjectOutputStreamSerialization" />
+    <configuration name="MouseListenerMouseMotionListenerExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.swing.MouseListenerMouseMotionListenerExample" />
       <module name="java001" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.files.*" />
+          <option name="PATTERN" value="com.example.swing.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -162,12 +162,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ScannerExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.files.ScannerExample" />
+    <configuration name="WindowsListenerExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.swing.WindowsListenerExample" />
       <module name="java001" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.files.*" />
+          <option name="PATTERN" value="com.example.swing.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -177,11 +177,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ObjectInputStreamSerialization" />
-        <item itemvalue="Application.ObjectOutputStreamSerialization" />
-        <item itemvalue="Application.FileExample" />
-        <item itemvalue="Application.ScannerExample" />
-        <item itemvalue="Application.DataInputStreamExample" />
+        <item itemvalue="Application.MouseListenerMouseMotionListenerExample" />
+        <item itemvalue="Application.KeyListenerExample" />
+        <item itemvalue="Application.WindowsListenerExample" />
+        <item itemvalue="Application.ActionEventExample" />
+        <item itemvalue="Application.JComponentExample" />
       </list>
     </recent_temporary>
   </component>
