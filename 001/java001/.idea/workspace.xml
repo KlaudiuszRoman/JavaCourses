@@ -109,9 +109,9 @@
       <recent name="$PROJECT_DIR$/src/com/example/oop/basics/access_modifiers/no_modifier" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MouseListenerMouseMotionListenerExample">
-    <configuration name="ActionEventExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.swing.ActionEventExample" />
+  <component name="RunManager" selected="Application.JTableExample">
+    <configuration name="JCheckBoxExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.swing.JCheckBoxExample" />
       <module name="java001" />
       <extension name="coverage">
         <pattern>
@@ -123,8 +123,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JComponentExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.swing.JComponentExample" />
+    <configuration name="JComboBoxExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.swing.JComboBoxExample" />
       <module name="java001" />
       <extension name="coverage">
         <pattern>
@@ -136,8 +136,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KeyListenerExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.swing.KeyListenerExample" />
+    <configuration name="JListExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.swing.JListExample" />
       <module name="java001" />
       <extension name="coverage">
         <pattern>
@@ -149,8 +149,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MouseListenerMouseMotionListenerExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.swing.MouseListenerMouseMotionListenerExample" />
+    <configuration name="JRadioButtonExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.swing.JRadioButtonExample" />
       <module name="java001" />
       <extension name="coverage">
         <pattern>
@@ -162,8 +162,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WindowsListenerExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.swing.WindowsListenerExample" />
+    <configuration name="JTableExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.swing.JTableExample" />
       <module name="java001" />
       <extension name="coverage">
         <pattern>
@@ -177,11 +177,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MouseListenerMouseMotionListenerExample" />
-        <item itemvalue="Application.KeyListenerExample" />
-        <item itemvalue="Application.WindowsListenerExample" />
-        <item itemvalue="Application.ActionEventExample" />
-        <item itemvalue="Application.JComponentExample" />
+        <item itemvalue="Application.JTableExample" />
+        <item itemvalue="Application.JListExample" />
+        <item itemvalue="Application.JComboBoxExample" />
+        <item itemvalue="Application.JRadioButtonExample" />
+        <item itemvalue="Application.JCheckBoxExample" />
       </list>
     </recent_temporary>
   </component>
