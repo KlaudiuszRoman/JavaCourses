@@ -27,7 +27,7 @@ public class JTableExample extends JFrame {
         frame.pack();
 
         jt.setValueAt("35", 0, 3);
-        System.out.println(jt.getValueAt(1,1));
+        //System.out.println(jt.getValueAt(1,1));
         System.out.println("column count: " + jt.getColumnCount());
         System.out.println("column name: " + jt.getColumnName(0));
 

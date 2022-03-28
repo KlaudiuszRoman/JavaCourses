@@ -109,9 +109,9 @@
       <recent name="$PROJECT_DIR$/src/com/example/oop/basics/access_modifiers/no_modifier" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.JTableExample">
-    <configuration name="JCheckBoxExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.swing.JCheckBoxExample" />
+  <component name="RunManager" selected="Application.JMenuBarExample">
+    <configuration name="JMenuBarExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.swing.JMenuBarExample" />
       <module name="java001" />
       <extension name="coverage">
         <pattern>
@@ -123,8 +123,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JComboBoxExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.swing.JComboBoxExample" />
+    <configuration name="JOptionPaneShowConfirmDialog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.swing.JOptionPaneShowConfirmDialog" />
       <module name="java001" />
       <extension name="coverage">
         <pattern>
@@ -136,8 +136,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JListExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.swing.JListExample" />
+    <configuration name="JOptionPaneShowInputDialog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.swing.JOptionPaneShowInputDialog" />
       <module name="java001" />
       <extension name="coverage">
         <pattern>
@@ -149,8 +149,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JRadioButtonExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.swing.JRadioButtonExample" />
+    <configuration name="JOptionPaneShowOptionDialog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.swing.JOptionPaneShowOptionDialog" />
       <module name="java001" />
       <extension name="coverage">
         <pattern>
@@ -162,8 +162,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JTableExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.swing.JTableExample" />
+    <configuration name="JScrollBarExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.swing.JScrollBarExample" />
       <module name="java001" />
       <extension name="coverage">
         <pattern>
@@ -177,11 +177,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.JTableExample" />
-        <item itemvalue="Application.JListExample" />
-        <item itemvalue="Application.JComboBoxExample" />
-        <item itemvalue="Application.JRadioButtonExample" />
-        <item itemvalue="Application.JCheckBoxExample" />
+        <item itemvalue="Application.JMenuBarExample" />
+        <item itemvalue="Application.JScrollBarExample" />
+        <item itemvalue="Application.JOptionPaneShowOptionDialog" />
+        <item itemvalue="Application.JOptionPaneShowConfirmDialog" />
+        <item itemvalue="Application.JOptionPaneShowInputDialog" />
       </list>
     </recent_temporary>
   </component>
