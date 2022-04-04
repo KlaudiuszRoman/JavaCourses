@@ -101,7 +101,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/example/oop/basics/inheritance/polymorphism_casting" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../Dokumenty_dysk_I/zadanie_rekrutacyjne_suncode/recruitment" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -109,9 +109,9 @@
       <recent name="$PROJECT_DIR$/src/com/example/oop/basics/access_modifiers/no_modifier" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.JMenuBarExample">
-    <configuration name="JMenuBarExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.swing.JMenuBarExample" />
+  <component name="RunManager" selected="Application.JToggleButtonExample">
+    <configuration name="JDialogExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.swing.JDialogExample" />
       <module name="java001" />
       <extension name="coverage">
         <pattern>
@@ -123,8 +123,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JOptionPaneShowConfirmDialog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.swing.JOptionPaneShowConfirmDialog" />
+    <configuration name="JFileChooserExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.swing.JFileChooserExample" />
       <module name="java001" />
       <extension name="coverage">
         <pattern>
@@ -136,8 +136,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JOptionPaneShowInputDialog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.swing.JOptionPaneShowInputDialog" />
+    <configuration name="JPanelExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.swing.JPanelExample" />
       <module name="java001" />
       <extension name="coverage">
         <pattern>
@@ -149,8 +149,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JOptionPaneShowOptionDialog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.swing.JOptionPaneShowOptionDialog" />
+    <configuration name="JToggleButtonExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.swing.JToggleButtonExample" />
       <module name="java001" />
       <extension name="coverage">
         <pattern>
@@ -162,8 +162,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JScrollBarExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.swing.JScrollBarExample" />
+    <configuration name="SpinnerNumberModelExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.swing.SpinnerNumberModelExample" />
       <module name="java001" />
       <extension name="coverage">
         <pattern>
@@ -177,11 +177,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.JMenuBarExample" />
-        <item itemvalue="Application.JScrollBarExample" />
-        <item itemvalue="Application.JOptionPaneShowOptionDialog" />
-        <item itemvalue="Application.JOptionPaneShowConfirmDialog" />
-        <item itemvalue="Application.JOptionPaneShowInputDialog" />
+        <item itemvalue="Application.JToggleButtonExample" />
+        <item itemvalue="Application.JFileChooserExample" />
+        <item itemvalue="Application.JPanelExample" />
+        <item itemvalue="Application.JDialogExample" />
+        <item itemvalue="Application.SpinnerNumberModelExample" />
       </list>
     </recent_temporary>
   </component>
