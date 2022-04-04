@@ -109,9 +109,9 @@
       <recent name="$PROJECT_DIR$/src/com/example/oop/basics/access_modifiers/no_modifier" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.JToggleButtonExample">
-    <configuration name="JDialogExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.swing.JDialogExample" />
+  <component name="RunManager" selected="Application.JDesktopPaneExample">
+    <configuration name="JDesktopPaneExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.swing.JDesktopPaneExample" />
       <module name="java001" />
       <extension name="coverage">
         <pattern>
@@ -123,8 +123,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JFileChooserExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.swing.JFileChooserExample" />
+    <configuration name="JFrameExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.swing.JFrameExample" />
       <module name="java001" />
       <extension name="coverage">
         <pattern>
@@ -136,8 +136,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JPanelExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.swing.JPanelExample" />
+    <configuration name="JLayerdPaneExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.swing.JLayerdPaneExample" />
       <module name="java001" />
       <extension name="coverage">
         <pattern>
@@ -162,8 +162,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SpinnerNumberModelExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.swing.SpinnerNumberModelExample" />
+    <configuration name="JToolBarExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.swing.JToolBarExample" />
       <module name="java001" />
       <extension name="coverage">
         <pattern>
@@ -177,11 +177,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.JDesktopPaneExample" />
+        <item itemvalue="Application.JLayerdPaneExample" />
+        <item itemvalue="Application.JFrameExample" />
+        <item itemvalue="Application.JToolBarExample" />
         <item itemvalue="Application.JToggleButtonExample" />
-        <item itemvalue="Application.JFileChooserExample" />
-        <item itemvalue="Application.JPanelExample" />
-        <item itemvalue="Application.JDialogExample" />
-        <item itemvalue="Application.SpinnerNumberModelExample" />
       </list>
     </recent_temporary>
   </component>
