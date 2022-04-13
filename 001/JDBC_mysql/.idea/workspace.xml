@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="32c75268-ad4a-4279-9188-d93c2f56735b" name="Changes" comment="" />
+    <list default="true" id="cf506863-699b-42f8-80eb-1e5606ac981f" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,10 +20,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="27NUJYc3cYKZZXExth223xbuhkl" />
+  <component name="ProjectId" id="27kUEzQ0zp6Og7Jy2N2u97mAjJb" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -33,16 +41,20 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="com.intellij.openapi.externalSystem.service.settings.ExternalSystemGroupConfigurable" value="ALL" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
-  <component name="RunManager" selected="Application.HtmlUnitExample">
-    <configuration name="HtmlUnitExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.HtmlUnitExample" />
-      <module name="java_networking" />
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.example" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.JDBC_create_table_example">
+    <configuration name="JDBC_connection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.JDBC_connection" />
+      <module name="JDBC_mysql" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="org.example.*" />
@@ -53,9 +65,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HttpURLConnectionExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.HttpURLConnectionExample" />
-      <module name="java_networking" />
+    <configuration name="JDBC_create_table_example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.JDBC_create_table_example" />
+      <module name="JDBC_mysql" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="org.example.*" />
@@ -66,9 +78,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JSONExchangeRatesExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.JSONExchangeRatesExample" />
-      <module name="java_networking" />
+    <configuration name="JDBC_insert_into_example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.JDBC_insert_into_example" />
+      <module name="JDBC_mysql" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="org.example.*" />
@@ -79,22 +91,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JSONFileParsingExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.JSONFileParsingExample" />
-      <module name="java_networking" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="XMLFileParsingExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.XMLFileParsingExample" />
-      <module name="java_networking" />
+    <configuration name="JDBC_select_example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.JDBC_select_example" />
+      <module name="JDBC_mysql" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="org.example.*" />
@@ -107,22 +106,21 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.HtmlUnitExample" />
-        <item itemvalue="Application.XMLFileParsingExample" />
-        <item itemvalue="Application.JSONFileParsingExample" />
-        <item itemvalue="Application.JSONExchangeRatesExample" />
-        <item itemvalue="Application.HttpURLConnectionExample" />
+        <item itemvalue="Application.JDBC_create_table_example" />
+        <item itemvalue="Application.JDBC_insert_into_example" />
+        <item itemvalue="Application.JDBC_select_example" />
+        <item itemvalue="Application.JDBC_connection" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="32c75268-ad4a-4279-9188-d93c2f56735b" name="Changes" comment="" />
-      <created>1649159968908</created>
+      <changelist id="cf506863-699b-42f8-80eb-1e5606ac981f" name="Changes" comment="" />
+      <created>1649863473622</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1649159968908</updated>
+      <updated>1649863473622</updated>
     </task>
     <servers />
   </component>

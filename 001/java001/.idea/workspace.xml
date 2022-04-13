@@ -101,7 +101,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../Dokumenty_dysk_I/zadanie_rekrutacyjne_suncode/recruitment" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -109,9 +109,9 @@
       <recent name="$PROJECT_DIR$/src/com/example/oop/basics/access_modifiers/no_modifier" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TestCalculator">
-    <configuration name="BoxLayoutExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.swing.BoxLayoutExample" />
+  <component name="RunManager" selected="Application.ChuckExample">
+    <configuration name="CardLayoutExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.swing.CardLayoutExample" />
       <module name="java001" />
       <extension name="coverage">
         <pattern>
@@ -123,12 +123,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CardLayoutExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.swing.CardLayoutExample" />
+    <configuration name="ChuckExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.ChuckExample" />
       <module name="java001" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.swing.*" />
+          <option name="PATTERN" value="com.example.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -177,11 +177,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ChuckExample" />
         <item itemvalue="Application.TestCalculator" />
         <item itemvalue="Application.InvokeLaterExample" />
         <item itemvalue="Application.ScrollPaneLayoutExample" />
         <item itemvalue="Application.CardLayoutExample" />
-        <item itemvalue="Application.BoxLayoutExample" />
       </list>
     </recent_temporary>
   </component>
