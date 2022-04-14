@@ -51,9 +51,9 @@
       <recent name="org.example" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.JDBC_create_table_example">
-    <configuration name="JDBC_connection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.JDBC_connection" />
+  <component name="RunManager" selected="Application.JDBC_order_by_example">
+    <configuration name="JDBC_delete_record_table_example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.JDBC_delete_record_table_example" />
       <module name="JDBC_mysql" />
       <extension name="coverage">
         <pattern>
@@ -65,8 +65,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JDBC_create_table_example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.JDBC_create_table_example" />
+    <configuration name="JDBC_drop_table_example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.JDBC_drop_table_example" />
       <module name="JDBC_mysql" />
       <extension name="coverage">
         <pattern>
@@ -78,8 +78,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JDBC_insert_into_example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.JDBC_insert_into_example" />
+    <configuration name="JDBC_like_example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.JDBC_like_example" />
       <module name="JDBC_mysql" />
       <extension name="coverage">
         <pattern>
@@ -91,8 +91,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JDBC_select_example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.JDBC_select_example" />
+    <configuration name="JDBC_order_by_example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.JDBC_order_by_example" />
+      <module name="JDBC_mysql" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JDBC_update_table_example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.JDBC_update_table_example" />
       <module name="JDBC_mysql" />
       <extension name="coverage">
         <pattern>
@@ -106,10 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.JDBC_create_table_example" />
-        <item itemvalue="Application.JDBC_insert_into_example" />
-        <item itemvalue="Application.JDBC_select_example" />
-        <item itemvalue="Application.JDBC_connection" />
+        <item itemvalue="Application.JDBC_order_by_example" />
+        <item itemvalue="Application.JDBC_like_example" />
+        <item itemvalue="Application.JDBC_delete_record_table_example" />
+        <item itemvalue="Application.JDBC_update_table_example" />
+        <item itemvalue="Application.JDBC_drop_table_example" />
       </list>
     </recent_temporary>
   </component>
